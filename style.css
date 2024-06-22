@@ -23,6 +23,7 @@ nav ul {
     border-radius: 20px;
     height: 450px;
     box-shadow: -9px 23px 84px 29px rgba(0,0,0,0.75);
+    object-fit: cover;
 }
 
 .nearimgtext{
@@ -30,3 +31,4 @@ nav ul {
     padding: 20px;
     border-radius: 20px;
 }
+
